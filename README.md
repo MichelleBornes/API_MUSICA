@@ -1,4 +1,4 @@
-# API_MUSICA
+# BeatAPI
 **Alunos:**<br/>
 **Professor: Gustavo Abreu Caetano**<br/><br/>
 

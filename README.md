@@ -1,5 +1,5 @@
 # BeatAPI
-**Alunos:**<br/>
+**Alunos: Bruno Viotto, Gabriela Pedroso, Michelle Bornes**<br/>
 **Professor: Gustavo Abreu Caetano**<br/><br/>
 
 **📌 Objetivo**<br/>
